@@ -1,0 +1,174 @@
+@import "./common.css";
+
+body {
+    color: #000000;
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    background-color: #F9F9F9;
+}
+
+h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    margin: 150px 0 60px;
+}
+
+p {
+    color: #727272;
+}
+
+h2 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+button {
+    padding: 19px 41px 20px;
+    color: #FFFFFF;
+    margin-top: 65px;
+    background: #34547A;
+    letter-spacing: 0.1em;
+}
+
+.section-1 {
+    padding: 80px 20% 140px;
+    background: #EEEFF1;
+}
+
+.section-1 .small-container {
+    max-width: 540px;
+}
+
+nav a:not(:first-of-type) {
+    margin-left: 42px;
+}
+
+i {
+    font-size: 24px;
+}
+
+.section-2 {
+    padding: 112px 20% 100px;
+    background: #ffffff;
+}
+.section-2 .small-container {
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.section-2 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 50px;
+    color: #FFFFFF;
+}
+
+.section-3 {
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 45px;
+    background: #34547A;
+}
+
+.section-3 .flex-container {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 100px 20px 100px;
+}
+
+.img {
+    position: absolute;
+    width: 47px;
+    height: 50px;
+    float: left;
+    margin-top: 57px;
+    background: #FFFFFF;
+
+}
+
+h3 {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    margin: 10px 10px 0 0;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.section-3 p {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+
+}
+
+.section-4 {
+    padding: 100px 11.6% 100px;
+    background: #EEEFF1;
+}
+
+.section-4 .small-container1 {
+    max-width: 540px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+h4 {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 50px;
+    text-align: center;
+    color: #000000;
+}
+.section-4 p{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    padding-bottom: 57px;
+    color: #727272;
+}
+
+.section-4 .videoWrapper iframe {
+    max-width: 1100px;
+    text-align: center;
+    margin: 0 auto;
+}
+.section-5 {
+    padding: 42px 10% 42px;
+    background: #34547A;
+}
+
+.section-5 .footer {
+    max-width: 1920px;
+
+}
+
+h5 {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 25px;
+    margin: 0 0 20px;
+    color: #FFFFFF;
+}
+
+.section-5 p {
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 21px;
+    color: #FFFFFF;
+
+}
